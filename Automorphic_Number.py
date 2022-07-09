@@ -1,4 +1,3 @@
-
 n=int(input())
 sqr=n*n
 temp=n
